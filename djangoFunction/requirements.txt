@@ -1,3 +1,4 @@
 azure-functions
 django
 whitenoise
+psycopg2-binary
